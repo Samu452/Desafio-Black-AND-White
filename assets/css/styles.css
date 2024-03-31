@@ -1,0 +1,49 @@
+body{
+    background-color:black;
+    color:white;
+    text-align: center;
+  
+}
+#btn {
+  background-color: #000000;
+  border: 2px solid #ffffff;
+  border-radius: 10px;
+  padding: 15px 100px;
+  margin:10px 4px;
+  color: #ffffff;
+  font-family: sans-serif;
+  text-transform: uppercase;
+  text-align: center;
+  position: relative;
+  text-decoration: none;
+  display:inline-block;
+  
+}
+
+#lblUrl{
+   background-color: #000000;
+  border: 2px solid #ffffff;
+  border-radius: 10px;
+  padding: 15px 100px;
+  margin:10px 4px;
+  color: #ffffff;
+  font-family: sans-serif;
+  text-transform: uppercase;
+  text-align: center;
+  position: relative;
+  text-decoration: none;
+  display:inline-block;
+  
+}
+
+#title{
+    font-size: 50px;
+}
+
+#imageUrl {
+    width: 300px;
+    height: 25px;
+    border-radius: 25px;
+    background-color: #000000;
+
+}
